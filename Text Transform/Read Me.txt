@@ -1,0 +1,5 @@
+The programm transforms the text in this way:
+
+- all charachters that are not numbers are printed in LIGHTGRAY colour;
+- the longest streak(s) of repeating numbers is printed in "bold";
+- the longest streak(s) of odd numbers is printed in RED colour.
